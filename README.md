@@ -7,8 +7,10 @@ This script can currently -
 <br>
 
 ## Setup -
-> Run `pip install -r requirements.txt`
+> Run `pip install -r requirements.txt`.
+
 > Enter your "github username", "Personal_Access_Token" in both `github_follow.py` and `github_unfollow.py`.
+
 > Update the list (PEOPLE_TO_KEEP_FOLLOWING) of users to keep following in both these files.
 
 <br>
